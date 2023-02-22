@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f7a4b33-6743-445d-ab84-58f4cc811ea3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/The_Complete_Develop_Guide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a10.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a11.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a12.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a13.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a14.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a15.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a16.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a17.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a18.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a18b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a19.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a20.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a21.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a22.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a23.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a24.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a25.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a26.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a26b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a26c.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a27.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a28.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a29.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a30.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a31.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a32.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a33.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a34.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a35.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a36.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a37.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a38.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a39.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a3a.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a3b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a40.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a41.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a42.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a4a.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a4b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a6.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a7.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a8.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/a9.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/mock-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/activities/src/bin/p1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/migrations/20210624130929_initial.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/bin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/data/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/domain/clip/field/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/domain/clip/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/domain/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/service/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/src/lib/web/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/static/clipstash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/static/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/static/tiny-date-picker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/static/tiny-date-picker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/base.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/clip.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/clip_need_password.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/error_box.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/footer.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/header.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/exercises/clipstash/templates/home.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a10.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a11.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a12.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a13.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a14.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a15.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a16.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a17.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a18.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a18b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a19.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a20.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a21.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a22.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a23.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a24.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a25.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a26.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a26b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a26c.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a27.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a28.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a29.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a30.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a31.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a32.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a33.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a34.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a35.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a36.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a37.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a38.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a39.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a3a.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a3b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a40.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a41.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a42.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a4a.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a4b.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a5.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a6.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a7.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a8.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/a9.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/mock-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/bin/p1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/math.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/msg.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/activities/src/mylib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/migrations/20210624130929_initial.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/migrations/20210716001908_api_key.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/bin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/bin/clipclient.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/bin/httpd.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/data/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/data/model.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/data/query.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/clip_id.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/content.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/expires.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/hits.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/password.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/posted.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/shortcode.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/field/title.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/clip/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/maintenance.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/domain/time.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/service/action.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/service/ask.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/service/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/api.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/ctx.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/form.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/hitcounter.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/http.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/src/lib/web/renderer.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/static/clipstash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/static/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/static/tiny-date-picker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/static/tiny-date-picker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/base.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/clip.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/clip_need_password.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/error_box.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/footer.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/header.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rust-course-data/solutions/clipstash/templates/home.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a00.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a01_11_activity_basic_math.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a02_7_basic_match.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a04_03_enum.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a04_06_structs.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a04_09_tuples.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a04_12_expressions.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a05_03_impl.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a05_04_impl2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a05_04_ownership.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a06_03_vector.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a06_06_strings.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a07_01_derive.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a07_03_enum.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a07_04_advanced_match.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a07_04_advanced_match_2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a07_06_option.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bin/a07_06_option_activity.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="mtyerkq0" />
+  </component>
+  <component name="ProjectId" id="2LUhhS55bxQXHfTpXyVJFRnB1vl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/bin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run --package The_Complete_Develop_Guide --bin The_Complete_Develop_Guide" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f7a4b33-6743-445d-ab84-58f4cc811ea3" name="Default Changelist" comment="" />
+      <created>1675931687471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675931687471</updated>
+      <workItem from="1675931689352" duration="5261000" />
+      <workItem from="1676630492155" duration="3475000" />
+      <workItem from="1676682894284" duration="5720000" />
+      <workItem from="1676773995507" duration="2500000" />
+      <workItem from="1676860348096" duration="6588000" />
+      <workItem from="1676937795621" duration="249000" />
+      <workItem from="1676939336522" duration="3569000" />
+      <workItem from="1676985805170" duration="202000" />
+      <workItem from="1677034922597" duration="2747000" />
+      <workItem from="1677056245014" duration="1256000" />
+      <workItem from="1677057886705" duration="526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1017" y="211" key="RollbackChangesDialog" timestamp="1677056340720">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1017" y="211" key="RollbackChangesDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1677056340720" />
+    <state x="777" y="100" key="SettingsEditor" timestamp="1677058360291">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="777" y="100" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1677058360291" />
+    <state x="972" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1676863171887">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="972" y="45" width="840" height="1034" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1676863171887" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/bin/a04_09_tuples.rs</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/bin/a04_09_tuples.rs</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
