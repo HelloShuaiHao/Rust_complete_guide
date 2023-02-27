@@ -17,4 +17,11 @@ fn main() {
     for (people, num) in people.iter() {
         println!("name:{:?} age:{:?}",people,num);
     }
+
+    for name in people.keys() {
+        println!("name: {:?}", name);
+    }
+    for num in people.values() {
+        println!("num: {:?}", num);
+    }
 }
