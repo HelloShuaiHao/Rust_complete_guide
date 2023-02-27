@@ -76,6 +76,11 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package The_Complete_Develop_Guide --bin The_Complete_Develop_Guide" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -89,11 +94,6 @@
       <option name="redirectInputPath" value="" />
       <method v="2">
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -121,7 +121,8 @@
       <workItem from="1677056245014" duration="1256000" />
       <workItem from="1677057886705" duration="1115000" />
       <workItem from="1677119975085" duration="1213000" />
-      <workItem from="1677288403018" duration="4226000" />
+      <workItem from="1677288403018" duration="4465000" />
+      <workItem from="1677481642559" duration="4610000" />
     </task>
     <task id="LOCAL-00001" summary="2023/2/22">
       <created>1677058757057</created>
